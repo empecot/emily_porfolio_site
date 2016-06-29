@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+    .lightning_pic {
+	    width: 80%;
+	    height: auto;
+	    position: absolute;
+	    left: 16em;
+	    bottom: 1em;
+
+    }
